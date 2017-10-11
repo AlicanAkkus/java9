@@ -1,0 +1,10 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8¤‚νο+
+Msquid:S1612",Replace this lambda with a method reference.(―μιόÿÿÿÿ8…ςωμο+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΦΣδƒ8¤‚νο+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(λÒΐόÿÿÿÿ8¤‚νο+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(φ΄Έϋÿÿÿÿ8…ςωμο+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―μιόÿÿÿÿ8…ςωμο+
